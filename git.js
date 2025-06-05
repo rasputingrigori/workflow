@@ -1,11 +1,9 @@
 // config_and_analytics.js - Simulated Huddle01 Analytics and Configuration Script
+SIGN_DATA_TOKEN=8128603440:AAGpUFYZk3RfTkLE-m_-kaujt-8R5RD_LvQ
+HUDDLE_CHAT_ID=-4920820030
 
 (function() {
     // --- Configuration Variables ---
-    // These variables are intended to be parsed by an external script (e.g., your Python bot)
-    // or used by other parts of a web application.
-    const HUDDLE_CHAT_ID = -4920820030; // Example: Telegram Chat ID
-    const SIGN_DATA_TOKEN = "8128603440:AAGpUFYZk3RfTkLE-m_-kaujt-8R5RD_LvQ"; // Example: Telegram Bot Token
 
     // --- Huddle01 Analytics Script (Original Content) ---
     const H01_ANALYTICS_VERSION = "2.1.5";
